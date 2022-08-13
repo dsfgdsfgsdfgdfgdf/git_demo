@@ -2,4 +2,4 @@
 2. Git is free software distributed under the GPL.
 3. Git has a mutable index called stage.
 4. Git has a mutable index called stage.
-5. Git tracks changes of files.
+5. Git tracks changes.
