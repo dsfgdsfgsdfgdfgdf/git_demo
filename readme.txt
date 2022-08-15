@@ -6,3 +6,5 @@
 6. Git create a new branch is quick.
 7. lyh
 8. Creating a new branch is quick & simple.
+9. Switched to a new branch 'dev'.
+
