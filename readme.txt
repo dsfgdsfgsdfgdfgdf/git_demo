@@ -4,3 +4,4 @@
 4. Git has a mutable index called stage.
 5. Git tracks changes.
 6. Git create a new branch is quick.
+7. lyh
